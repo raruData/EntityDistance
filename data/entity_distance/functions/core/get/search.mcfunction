@@ -14,4 +14,4 @@
     scoreboard players set @s EntityDistance 0
 
 # 距離を探索
-    execute facing entity @s feet run function entity_distance:core/get/30
+    function entity_distance:core/get/30
