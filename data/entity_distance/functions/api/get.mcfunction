@@ -6,7 +6,7 @@
 #
 # @output
 #   score @s EntityDistance
-#       エンティティとの距離(m)
+#       エンティティとの距離(m)の10000倍
 #
 # @api
 
