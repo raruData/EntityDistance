@@ -25,7 +25,7 @@ execute as <targets> at <destination(limit=1)> run function entity_distance:api/
 execute as @a at @e[type=minecraft:zombie, limit=1] run function entity_distance:api/get
 
 # ゾンビとの距離が10.0m以内のプレイヤーに剣を与える
-execute as @a[scores={EntityDistance=..100000}] run give @s minecraft:wooden_sword
+give @a[scores={EntityDistance=..100000}] minecraft:wooden_sword
 ```
 
 ## 注意
