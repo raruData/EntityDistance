@@ -1,7 +1,7 @@
 # EntityDistance
 ![EntityDistance](https://user-images.githubusercontent.com/74240663/160341234-7882183e-8120-43d5-ba13-f256b0019deb.gif)
 
-低負荷でエンティティ間の距離を取得するためのデータパック
+エンティティ間の距離を取得するためのデータパック
 
 ## 対応バージョン
 - 1.18.1
